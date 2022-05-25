@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaramaebee%2Fpythonfutures.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaramaebee%2Fpythonfutures?ref=badge_shield)
+
 .. image:: https://travis-ci.org/agronholm/pythonfutures.svg?branch=master
   :target: https://travis-ci.org/agronholm/pythonfutures
   :alt: Build Status
@@ -34,3 +36,7 @@ Or, using the newer syntax:
    should not be relied on for mission critical work. Please see `Issue 29 <https://github.com/agronholm/pythonfutures/issues/29>`_ and `upstream bug report <https://bugs.python.org/issue9205>`_ for more details.
 
 .. _concurrent.futures: https://docs.python.org/library/concurrent.futures.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaramaebee%2Fpythonfutures.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaramaebee%2Fpythonfutures?ref=badge_large)
